@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
+<img align="right" width="400" src="https://i.gifer.com/5eKX.gif">
 
 - 🔭 I’m currently working on [Coccoa Tickets](https://coccoa.xyz/)
 
